@@ -4,7 +4,8 @@
 body {
 	margin:0 0 0 0;
 	padding:0 0 0 0;
-	
+	background:url("assets/images/building.jpg");
+
 	
 	}
 .topheader {
@@ -161,7 +162,7 @@ li.dropdown {
 	height:50px;
 	background-color:#09014c;
 	font-size:22px;
-	text-align:right;
+	padding-left:25px;
 	line-height:50px;
 	color:#FFF;
 	}	
@@ -200,8 +201,10 @@ li.dropdown {
 .bottommenu a {
 	text-decoration:none;
 	color:#FFF;
+	text-align:center;
 	}				
 .bottommenu a:hover {
 	text-decoration:none;
 	color:#09014c;
 	}			
+
