@@ -45,7 +45,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: center;
 	font-size:22px;
 }
 
@@ -69,7 +69,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-}
+    background:url(assets/images/logo.jpg);
+    }
 
 li {
     float: left;
@@ -77,7 +78,7 @@ li {
 
 li a, .dropbtn {
     display: inline-block;
-    color: white;
+    color: #4ff3fc;
     text-align: center;
     padding: 12px 25px;
     text-decoration: none;
@@ -88,7 +89,7 @@ li a:hover, .dropdown:hover .dropbtn {
 }
 
 li.dropdown {
-    display: inline-block;
+    
 }
 
 .dropdown-content {
