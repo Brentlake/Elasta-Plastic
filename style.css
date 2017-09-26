@@ -4,6 +4,7 @@
 body {
 	margin:0 0 0 0;
 	padding:0 0 0 0;
+	background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnTTzy591GHWaDqp5dZlAR2fvUYHkuqTEJbuk7tAT20-CpjxM")
 	
 	}
 .topheader {
@@ -83,7 +84,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #24a6c2;
+    background-color: white;
 }
 
 li.dropdown {
@@ -201,4 +202,7 @@ li.dropdown {
 .bottommenu a:hover {
 	text-decoration:none;
 	color:#09014c;
-	}			
+	}	
+
+.navcolor{
+	color:#09acc1;\
