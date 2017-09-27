@@ -7,6 +7,12 @@ body {
 	background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnTTzy591GHWaDqp5dZlAR2fvUYHkuqTEJbuk7tAT20-CpjxM")
 	
 	}
+.navlogo{
+position:absolute;
+margin-left:-405px;
+height:75px;
+width:250px;
+}
 .topheader {
 	width:100%;
 	height:140px;
@@ -26,7 +32,8 @@ body {
 .menu {
 	width:100%;
 	background-color:#09014c;
-	height:50px;
+	height:75px;
+
 	}
 .insidemenu{
 	width:40%;
@@ -80,7 +87,7 @@ li a, .dropbtn {
     display: inline-block;
     color: #4ff3fc;
     text-align: center;
-    padding: 12px 25px;
+    padding: 25px 30px;
     text-decoration: none;
 }
 
@@ -207,3 +214,4 @@ li.dropdown {
 
 .navcolor{
 	color:#006bc6;
+
