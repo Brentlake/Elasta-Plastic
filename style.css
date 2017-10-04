@@ -7,7 +7,12 @@ body {
 	background:url("http://www.powerpointhintergrund.com/uploads/2017/09/white-canvas-fabric-texture-background-5.jpeg")
 	
 	}
-	
+.navabout{
+position:absolute;
+margin-left:-449px;
+height:77px;
+width:250px;
+}
 	
 .navlogo{
 position:absolute;
