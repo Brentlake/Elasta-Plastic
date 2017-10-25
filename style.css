@@ -16,7 +16,7 @@ body {
 .navservices{
 	    position: absolute;
     margin-left: -404px;
-    height: 77px;
+    height: 76px;
     width: 215px;
 }
 .gearpadding{
@@ -177,6 +177,11 @@ li.dropdown {
 	float:left;
 	margin:15px 0 0 0;
 	
+	}
+	.servicecontact{
+		width:775px;
+	float:left;
+	margin:15px 0 0 0;
 	}
 .leftside {
 	width:500px;
