@@ -13,6 +13,11 @@ body {
 
 
 }
+
+#toplogo{
+	background-image:url('logo.jpeg'); 
+	height:0px;
+}
 .navservices{
 	    position: absolute;
     margin-left: -404px;
