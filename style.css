@@ -16,7 +16,7 @@ body {
 
 #ganggang{
 	background-image:url('logo.jpeg'); 
-	height:72px;
+	height:0px;
 
 }
 #toplogo{
@@ -47,7 +47,7 @@ width:250px;
 	
 .navlogo{
 position:absolute;
-margin-left:-450px;
+margin-left:-506px;
 height:77px;
 width:250px;
 }
