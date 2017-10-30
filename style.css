@@ -14,6 +14,11 @@ body {
 
 }
 
+#ganggang{
+	background-image:url('logo.jpeg'); 
+	height:74px;
+
+}
 #toplogo{
 	background-image:url('logo.jpeg'); 
 	height:0px;
