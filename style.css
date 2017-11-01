@@ -10,7 +10,7 @@ body {
 	}
 .servicecontent{
 	text-align:center;
-s
+
 
 }
 .aboutpic{
@@ -25,6 +25,11 @@ s
 	background-image:url('logo.jpeg'); 
 	height:0px;
 
+}
+.gangbox{
+	width:1050px;
+	padding-left:150px;
+	padding-bottom:25px;
 }
 #toplogo{
 	background-image:url('logo.jpeg'); 
