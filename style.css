@@ -280,9 +280,12 @@ li.dropdown {
 .bottommenu a:hover {
 	text-decoration:none;
 	color:#09014c;
+	text-align:left;
 	}	
 
 .navcolor{
 	color:#006bc6;
 }
+#tool{
 
+}
