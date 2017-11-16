@@ -311,3 +311,20 @@ color:#09014c;
 	color:#222c52;
 	clear:both;
 }
+#bootone{
+	padding-bottom:5px;
+	padding-left:20px;
+	float:left;
+}
+#bootfloat{
+	float:left;
+	padding-left:30px;
+}
+#bag{
+	clear:both;
+	width:1185px;
+	
+}
+#wolfbag{
+float:right;
+}
