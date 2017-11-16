@@ -10,6 +10,9 @@ body {
 	}
 .servicecontent{
 	text-align:center;
+}
+
+}
 
 
 }
@@ -20,8 +23,11 @@ body {
 	margin-left:224px;
 
 }
-
-
+#gaf{
+	padding-top:15px;
+	height:350px;
+	width:750px;
+}
 
 #ganggang{
 	background-image:url('logo.jpeg'); 
