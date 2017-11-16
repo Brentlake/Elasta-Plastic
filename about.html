@@ -240,24 +240,26 @@ fieldset {
   color: #888;
 }
 </style>
-<div class="container">  
-  <form id="contact" action="contact_us.php" method="post">
+<div class="container"> 
+
+  
+  <form id="contact" action="mailto:example@example.com" method="post" enctype="text/plain">
     
     <fieldset>
-      <input placeholder="Full Name" name="fname" type="text" tabindex="1" required autofocus>
+      <input placeholder="Full Name" name="name" type="text" tabindex="1" required autofocus>
     </fieldset>
     
     <fieldset>
-      <input placeholder="Phone" name="phoneno" type="tel" tabindex="2" required>
+      <input placeholder="Phone" name="phonenumber" type="tel" tabindex="2" required>
     </fieldset>
     <fieldset>
-      <input placeholder="Email" name="emailid" type="email" tabindex="3" required>
+      <input placeholder="Email" name="email" type="email" tabindex="3" required>
     </fieldset>
     <fieldset>
       <textarea name="message" placeholder="Type your message here...." tabindex="5" required></textarea>
     </fieldset>
     <fieldset >
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      <button name="submit" id="contact-submit">Submit</button>
     </fieldset>
 
   </form>
