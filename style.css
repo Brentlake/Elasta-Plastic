@@ -297,3 +297,16 @@ li.dropdown {
 #pim{
 color:#09014c;
 }
+
+.accessories {
+	width:1050px;
+	float:left;
+	margin:15px 0 0 -135px;
+	
+	}
+.list{
+	margin: 15px 0 0 -135px;
+	padding-top:15px;
+	font-size:20px;
+	clear:both;
+}
