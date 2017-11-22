@@ -11,6 +11,9 @@ body {
 .servicecontent{
 	text-align:center;
 }
+hr{
+	color:#09acc1;
+}
 
 }
 
@@ -49,7 +52,7 @@ body {
 }
 .navservices{
 	    position: absolute;
-    margin-left: -404px;
+    margin-left: -405px;
     height: 76px;
     width: 215px;
 }
@@ -71,7 +74,7 @@ width:250px;
 	
 .navlogo{
 position:absolute;
-margin-left:-506px;
+margin-left:-505px;
 height:77px;
 width:250px;
 }
@@ -102,7 +105,7 @@ width:250px;
 .menu {
 	width:100%;
 	background-color:#09014c;
-	height:76px;
+	height:77px;
 
 	}
 .insidemenu{
@@ -157,7 +160,7 @@ li a, .dropbtn {
     display: inline-block;
     color: #4ff3fc;
     text-align: center;
-    padding: 23px 23px;
+    padding: 20px 17px;
     text-decoration: none;
 }
 
@@ -226,6 +229,7 @@ li.dropdown {
 .rightside {
 	width:515px;
 	float:right;
+	margin-right:3px;
 	
 	
 	}
@@ -245,6 +249,7 @@ li.dropdown {
 	background-color:#09014c;
 	font-size:22px;
 	text-align:center;
+	
 	line-height:50px;
 	color:#FFF;
 	}	
@@ -349,3 +354,35 @@ padding-bottom:35px;
 	margin-left:500px;
 	padding-top:20px;
 }
+#firstpic{
+	float:left;
+	padding-left:60px;
+}
+
+#textright{
+	float:right;
+	font-size:18px;
+
+}
+#one{
+margin-left:-465px;
+}
+#two{
+margin-left:-170px;
+}
+#three{
+margin-left:-400px;
+}
+#four{
+margin-left:0px
+}
+#toolinglogo{
+	   position: absolute;
+    margin-left: -404px;
+    height: 77px;
+    width: 215px;
+}
+.left{
+	text-align:left;
+}
+
