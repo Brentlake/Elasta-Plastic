@@ -100,6 +100,8 @@ width:250px;
 	}
 .fontcolor{
 	color:#09014c;
+	width:640px;
+	float:right;
 }
 	
 .menu {
@@ -297,7 +299,7 @@ li.dropdown {
 	color:#006bc6;
 }
 #tool{
-
+padding-bottom:15px;
 }
 #pim{
 color:#09014c;
@@ -356,16 +358,21 @@ padding-bottom:35px;
 }
 #firstpic{
 	float:left;
-	padding-left:60px;
+	padding-left:0px;
+	padding-bottom:15px;
+	width:250px;
+	height:190px;
 }
 
 #textright{
+	padding-top:-15px;
 	float:right;
 	font-size:18px;
 
 }
 #one{
 margin-left:-465px;
+
 }
 #two{
 margin-left:-170px;
@@ -385,4 +392,24 @@ margin-left:0px
 .left{
 	text-align:left;
 }
-
+#Hfont{
+	text-align:center;
+}
+#Tfont{
+	text-align:center;
+	font-size:55px;
+	padding-top:-2px;
+	padding-bottom:-2px;
+}
+#fntsize{
+	font-size:60px;
+	padding-left:80px;
+	text-align:center;
+}
+#botton {
+	width:1050px;
+	background-color:#09014c;
+	float:left;
+	margin:0 0 0 140px;
+	}
+}
