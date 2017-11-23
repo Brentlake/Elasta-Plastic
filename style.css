@@ -162,7 +162,7 @@ li a, .dropbtn {
     display: inline-block;
     color: #4ff3fc;
     text-align: center;
-    padding: 20px 17px;
+    padding: 20px 24px;
     text-decoration: none;
 }
 
@@ -426,4 +426,9 @@ margin-right:-580px;
 height:453px;
 width:475px;
 clear:both;
+}
+.tool1{
+	float:left;
+	height:250px;
+	width:250px;
 }
