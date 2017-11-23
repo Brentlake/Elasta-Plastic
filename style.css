@@ -204,7 +204,7 @@ li.dropdown {
 .content {
 	width:1050px;
 	text-align:center;
-	margin:0 auto;
+	margin: auto;
 	}
 .aftercontent {
 	width:1050px;
@@ -229,9 +229,9 @@ li.dropdown {
 	
 	}
 .rightside {
-	width:515px;
-	float:right;
-	margin-right:3px;
+	width:465px;
+	float:left;
+	margin-right:-10px;
 	
 	
 	}
@@ -317,6 +317,7 @@ color:#09014c;
 	font-size:20px;
 	color:#222c52;
 	clear:both;
+
 }
 #bootone{
 	padding-bottom:5px;
@@ -360,8 +361,8 @@ padding-bottom:35px;
 	float:left;
 	padding-left:0px;
 	padding-bottom:15px;
-	width:250px;
-	height:190px;
+	width:200px;
+	height:165px;
 }
 
 #textright{
@@ -371,18 +372,25 @@ padding-bottom:35px;
 
 }
 #one{
-margin-left:-465px;
+float:right;
+margin-right:-25px;
 
 }
 #two{
-margin-left:-170px;
+float:right;
+margin-right:-25px;
+
 }
 #three{
-margin-left:-400px;
+float:right;
+margin-right:-25px;
+
 }
 #four{
-margin-left:0px
+float:right;
+margin-right:-25px;
 }
+
 #toolinglogo{
 	   position: absolute;
     margin-left: -404px;
@@ -402,7 +410,7 @@ margin-left:0px
 	padding-bottom:-2px;
 }
 #fntsize{
-	font-size:60px;
+	font-size:45px;
 	padding-left:80px;
 	text-align:center;
 }
@@ -412,4 +420,10 @@ margin-left:0px
 	float:left;
 	margin:0 0 0 140px;
 	}
+#srvc{
+float:right;
+margin-right:-580px;
+height:453px;
+width:475px;
+clear:both;
 }
