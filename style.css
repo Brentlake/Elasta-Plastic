@@ -219,6 +219,13 @@ li.dropdown {
 	margin:15px 0 0 0;
 	
 	}
+	.serv{
+		text-align:center;
+		font-size:5px;
+		padding-top:5px;
+		padding-bottom:5px;
+		font-size:18px;
+	}
 	.servicecontact{
 		width:775px;
 	float:left;
